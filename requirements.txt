@@ -2,3 +2,4 @@ matplotlib
 pandas
 openpyxl
 seaborn
+jupyter
