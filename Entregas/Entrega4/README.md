@@ -9,7 +9,7 @@
 
 En el siguiente trabajo analizamos los dataset de vuelos (`flights`) y aviones (`planes`) con el objetivo de reforzar las trayectorias con mayor demanda para lograr aumentar las ganancias y mejorar la experiencia de los pasajeros.
 
-Tenemos las siguientes aerolíneas para elegir, el la cual se representan la cantidad de vuelos que tuvieron en el año:
+Tenemos las siguientes aerolíneas para elegir, representando la cantidad de vuelos que tuvieron en el año:
 
 ![plot 1](./assets/plot1.png)
 
