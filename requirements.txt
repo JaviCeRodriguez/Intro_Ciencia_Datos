@@ -4,3 +4,4 @@ openpyxl
 seaborn
 jupyter
 scikit-learn
+plotnine
