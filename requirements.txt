@@ -1,7 +1,9 @@
-matplotlib
-pandas
+matplotlib~=3.5.2
+pandas~=1.4.3
 openpyxl
 seaborn
 jupyter
 scikit-learn
 plotnine
+geopandas
+shapely
